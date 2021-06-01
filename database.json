@@ -6,16 +6,65 @@
             "breed": "Poodle",
             "customerId": 1,
             "locationId": 2
+        },
+        {
+            "id":2,
+            "name": "Casey",
+            "breed": "Cocker Spaniel",
+            "customerId": 2,
+            "locationId":2
+        },
+        {
+            "id":3,
+            "name": "Sport",
+            "breed": "Golden Retriever",
+            "customerId": 3,
+            "locationId":2
         }
+       
     ],
     "customers": [
         {
             "id": 1,
             "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
+            "address": "7002 Chestnut Ct",
+            "petId": 1
+        },
+        {
+            "id": 2,
+            "name": "Jennifer French",
+            "address": "100 Home",
+            "petId": 2
+        },
+        {
+            "id": 3,
+            "name": "Becky Vanderbeck",
+            "address": "1000 Places St",
+            "petId": 3
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeremy Bakker",
+            "locationId": 2
+        },
+        {
+            "id": 2,
+            "name": "Geneva Direction",
+            "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Franklin Moore",
+            "locationId": 2
+        },
+        {
+            "id": 4,
+            "name": "Patrick Streeter",
+            "locationId": 1
+        }
+    ],
     "locations": [
         {
             "id": 1,
