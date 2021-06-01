@@ -4,19 +4,22 @@
             "id": 1,
             "name": "Doodles",
             "breed": "Poodle",
-            "locationId": 1
+            "locationId": 1,
+            "customerId": 1
         },
         {
             "id":2,
             "name": "Casey",
             "breed": "Cocker Spaniel",
-            "locationId":2
+            "locationId":2,
+            "customerId": 2
         },
         {
             "id":3,
             "name": "Sport",
             "breed": "Golden Retriever",
-            "locationId":2
+            "locationId":2,
+            "customerId": 3
         }
        
     ],
