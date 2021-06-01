@@ -4,21 +4,18 @@
             "id": 1,
             "name": "Doodles",
             "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
+            "locationId": 1
         },
         {
             "id":2,
             "name": "Casey",
             "breed": "Cocker Spaniel",
-            "customerId": 2,
             "locationId":2
         },
         {
             "id":3,
             "name": "Sport",
             "breed": "Golden Retriever",
-            "customerId": 3,
             "locationId":2
         }
        
@@ -28,19 +25,19 @@
             "id": 1,
             "name": "Hannah Hall",
             "address": "7002 Chestnut Ct",
-            "petId": 1
+            "animalId": 1
         },
         {
             "id": 2,
             "name": "Jennifer French",
             "address": "100 Home",
-            "petId": 2
+            "animalId": 2
         },
         {
             "id": 3,
             "name": "Becky Vanderbeck",
             "address": "1000 Places St",
-            "petId": 3
+            "animalId": 3
         }
     ],
     "employees": [
