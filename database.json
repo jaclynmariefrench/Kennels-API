@@ -22,11 +22,11 @@
       "customerId": 3
     },
     {
-        "id": 4,
-        "name": "Sparky",
-        "breed": "Terrier",
-        "locationId": 2,
-        "customerId": 4
+      "id": 4,
+      "name": "Sparky",
+      "breed": "Terrier",
+      "locationId": 2,
+      "customerId": 4
     }
   ],
   "customers": [
@@ -34,27 +34,35 @@
       "id": 1,
       "name": "Hannah Hall",
       "address": "7002 Chestnut Ct",
-      "animalId": 1  
-      
+      "animalId": 1,
+      "email": "hannah@kennels.com"
     },
     {
       "id": 2,
       "name": "Jennifer French",
       "address": "100 Home",
-      "animalId": 2
+      "animalId": 2,
+      "email": "jennifer@kennels.com"
     },
     {
       "id": 3,
       "name": "Becky Vanderbeck",
       "address": "1000 Places St",
-      "animalId": 3
-    }, 
+      "animalId": 3,
+      "email": "becky@kennels.com"
+    },
     {
-        "id": 4,
-        "name": "Vicki Picky",
-        "address": "Somewhere Lane",
-        "animalId": 4
-      }
+      "id": 4,
+      "name": "Vicki Picky",
+      "address": "Somewhere Lane",
+      "animalId": 4,
+      "email": "vicki@kennels.com"
+    },
+    {
+      "email": "jackk@kennels.com",
+      "name": "Jack K",
+      "id": 5
+    }
   ],
   "employees": [
     {
