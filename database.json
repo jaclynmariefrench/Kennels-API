@@ -1,80 +1,91 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "locationId": 1,
-            "customerId": 1
-        },
-        {
-            "id":2,
-            "name": "Casey",
-            "breed": "Cocker Spaniel",
-            "locationId":2,
-            "customerId": 2
-        },
-        {
-            "id":3,
-            "name": "Sport",
-            "breed": "Golden Retriever",
-            "locationId":2,
-            "customerId": 3
-        }
-       
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct",
-            "animalId": 1
-        },
-        {
-            "id": 2,
-            "name": "Jennifer French",
-            "address": "100 Home",
-            "animalId": 2
-        },
-        {
-            "id": 3,
-            "name": "Becky Vanderbeck",
-            "address": "1000 Places St",
-            "animalId": 3
-        }
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Jeremy Bakker",
-            "locationId": 2
-        },
-        {
-            "id": 2,
-            "name": "Geneva Direction",
-            "locationId": 1
-        },
-        {
-            "id": 3,
-            "name": "Franklin Moore",
-            "locationId": 2
-        },
-        {
-            "id": 4,
-            "name": "Patrick Streeter",
-            "locationId": 1
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "locationId": 1,
+      "customerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Casey",
+      "breed": "Cocker Spaniel",
+      "locationId": 2,
+      "customerId": 2
+    },
+    {
+      "id": 3,
+      "name": "Sport",
+      "breed": "Golden Retriever",
+      "locationId": 2,
+      "customerId": 3
+    },
+    {
+      "name": "Sparky",
+      "breed": "Terrier",
+      "locationId": 2,
+      "customerId": 1,
+      "id": 4
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct",
+      "animalId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jennifer French",
+      "address": "100 Home",
+      "animalId": 2
+    },
+    {
+      "id": 3,
+      "name": "Becky Vanderbeck",
+      "address": "1000 Places St",
+      "animalId": 3
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jeremy Bakker",
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Geneva Direction",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Franklin Moore",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Patrick Streeter",
+      "locationId": 1
+    },
+    {
+      "name": "Jackie West",
+      "locationId": 1,
+      "id": 5
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
 }
