@@ -57,11 +57,6 @@
       "address": "Somewhere Lane",
       "animalId": 4,
       "email": "vicki@kennels.com"
-    },
-    {
-      "email": "jackk@kennels.com",
-      "name": "Jack K",
-      "id": 5
     }
   ],
   "employees": [
